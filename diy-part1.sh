@@ -16,4 +16,5 @@
 # Add a feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git ifit https://github.com/kenzok8/luci-theme-ifit.git' >>feeds.conf.default
+echo 'src-git nat6helper https://github.com/Ausaci/luci-app-nat6-helper.git' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
